@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "unistd.h": "c",
+        "csapp.h": "c",
+        "pthread.h": "c",
+        "server.h": "c",
+        "stdio.h": "c"
+    }
+}
